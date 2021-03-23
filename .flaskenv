@@ -1,0 +1,2 @@
+FLASK_APP=TooTree.py
+FLASK_ENV=development
